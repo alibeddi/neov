@@ -4,8 +4,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd neov-landing-page
+   git clone https://github.com/alibeddi/neov.git
+   cd neov
    ```
 2. **Install dependencies:**
    ```bash
@@ -38,8 +38,8 @@
 
 ## 🌐 Live Demo Links
 
-- **Production Demo:** [Add your Vercel/Netlify/other deployment link here]
-- **Figma Design:** [Figma Project](https://www.figma.com/design/AJkjAGJOxNHPWTxCKwipDd/Untitled)
+- **Production Demo:** https://neov-j18s.vercel.app/
+
 
 ---
 
